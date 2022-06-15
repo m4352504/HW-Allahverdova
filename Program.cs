@@ -55,7 +55,7 @@ else if (c >= b & c >= a)
 -3 -> нет
 7 -> нет */
 
-Console.WriteLine("Введите число");
+/* Console.WriteLine("Введите число");
 int a = int.Parse(Console.ReadLine());
 if (a % 2 == 0)
 {
@@ -64,10 +64,20 @@ if (a % 2 == 0)
 else
 {
     Console.WriteLine("Чисно нечетное");
-}
+} */ 
+
 
 /* Задача 8: Напишите программу, которая на вход
 принимает число (N), а на выходе показывает все чётные
 числа от 1 до N.
 5 -> 2, 4
 8 -> 2, 4, 6, 8 */
+
+Console.WriteLine("Введите число");
+int N = int.Parse(Console.ReadLine());
+int A = 1;
+while (A <= N)
+{
+    Console.WriteLine(A);
+    A++;
+}
