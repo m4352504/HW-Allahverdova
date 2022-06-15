@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\bin\Debug\net6.0\HW-Allahverdova.exe
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\bin\Debug\net6.0\HW-Allahverdova.deps.json
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\bin\Debug\net6.0\HW-Allahverdova.runtimeconfig.json
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\bin\Debug\net6.0\HW-Allahverdova.dll
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\bin\Debug\net6.0\HW-Allahverdova.pdb
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.AssemblyInfo.cs
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.dll
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\refint\HW-Allahverdova.dll
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.pdb
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\HW-Allahverdova.genruntimeconfig.cache
+C:\Users\User\Desktop\Language\Tutorial\HW001\HW-Allahverdova\obj\Debug\net6.0\ref\HW-Allahverdova.dll
