@@ -28,6 +28,7 @@ else
 44 5 78 -> 78
 22 3 9 -> 22*/
 
+/*
 Console.WriteLine("Введите первое число");
 int a = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число");
@@ -45,7 +46,7 @@ else if (b >= a & b >= c)
 else if (c >= b & c >= a)
 {
     Console.WriteLine("Max = " + c);
-}
+} */
 
 /* Задача 6: Напишите программу, которая на вход
 принимает число и выдаёт, является ли число чётным
@@ -54,7 +55,16 @@ else if (c >= b & c >= a)
 -3 -> нет
 7 -> нет */
 
-
+Console.WriteLine("Введите число");
+int a = int.Parse(Console.ReadLine());
+if (a % 2 == 0)
+{
+    Console.WriteLine("Число четное");
+}
+else
+{
+    Console.WriteLine("Чисно нечетное");
+}
 
 /* Задача 8: Напишите программу, которая на вход
 принимает число (N), а на выходе показывает все чётные
